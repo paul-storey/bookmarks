@@ -8,3 +8,5 @@
 [GitHub Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 [Beginners Guide to OpenType](https://www.magnetstudio.com/beginners-guide-to-opentype)
+
+[Font Squirrel](https://www.fontsquirrel.com/)
