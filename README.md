@@ -6,3 +6,5 @@
 [How to assign a static IP address to a VirtualBox VM so that host applications can connect to it](https://marcus.4christies.com/2019/01/how-to-create-a-virtualbox-vm-with-a-static-ip-and-internet-access/)
 
 [GitHub Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+
+[Beginners Guide to OpenType](https://www.magnetstudio.com/beginners-guide-to-opentype)
