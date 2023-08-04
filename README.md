@@ -11,4 +11,6 @@
 
 [Font Squirrel](https://www.fontsquirrel.com/)
 
-[https://meyerweb.com/](https://meyerweb.com/) - CSS guru
+[CSS Guru Eric Meyer](https://meyerweb.com/)
+
+[Wakamai Fondue - Drop a font file and learn what features it supports](https://wakamaifondue.com/)
