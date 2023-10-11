@@ -14,3 +14,5 @@
 [CSS Guru Eric Meyer](https://meyerweb.com/)
 
 [Wakamai Fondue - Drop a font file and learn what features it supports](https://wakamaifondue.com/)
+
+[Highlighting in GIMP](https://fredreh.wordpress.com/2008/06/01/gimp-for-dummies-how-to-highlight-part-of-image/)
