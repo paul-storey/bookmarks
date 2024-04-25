@@ -9,6 +9,8 @@
 
 [Git: creating a feature branch from a feature branch](https://stackoverflow.com/questions/34301568/git-branch-off-a-branch)
 
+[Git: internals](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
+
 [GitHub Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 [nginx config](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts)
