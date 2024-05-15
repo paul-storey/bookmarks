@@ -22,3 +22,9 @@
 [tmux - a quick guide](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 
 [VirtualBox and IP addresses - How to assign a static IP address to a VirtualBox VM so that host applications can connect to it](https://marcus.4christies.com/2019/01/how-to-create-a-virtualbox-vm-with-a-static-ip-and-internet-access/)
+
+[Webcam - Swifts in the tower](https://oumnh.ox.ac.uk/learn-swifts-in-the-tower)
+
+[Webcam - Windermere](https://www.windermere-lakecruises.co.uk/lakeside-webcam)
+
+[Webcam - Cotswold Wildlife Park](https://www.cotswoldwildlifepark.co.uk/animals-gardens/web-cams/)
