@@ -18,6 +18,10 @@
 
 [npm vs npx](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
 
+#### JS libraries
+
+[pagefind](https://pagefind.app/)
+
 ## Git
 
 [Git: creating a feature branch from a feature branch](https://stackoverflow.com/questions/34301568/git-branch-off-a-branch)
