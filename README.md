@@ -51,3 +51,11 @@
 [Webcam - Windermere](https://www.windermere-lakecruises.co.uk/lakeside-webcam)
 
 [Webcam - Cotswold Wildlife Park](https://www.cotswoldwildlifepark.co.uk/animals-gardens/web-cams/)
+
+## XML
+
+[XQuery - Microsoft](https://learn.microsoft.com/en-us/sql/xquery/)
+
+[XQuery - 10 minute introduction](https://www.progress.com/tutorials/xquery/learn-xquery-in-10-minutes)
+
+
