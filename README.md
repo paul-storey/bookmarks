@@ -32,6 +32,8 @@
 
 ## Linux
 
+[Bash](https://www.gnu.org/software/bash/manual/bash.html)
+
 [GIMP - Highlighting in GIMP](https://fredreh.wordpress.com/2008/06/01/gimp-for-dummies-how-to-highlight-part-of-image/)
 
 [nginx config](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts)
