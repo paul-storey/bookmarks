@@ -14,6 +14,10 @@
 
 [OpenType - Beginners Guide to OpenType](https://www.magnetstudio.com/beginners-guide-to-opentype)
 
+#### HTML
+
+[Whitespace](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Whitespace)
+
 #### JavaScript, Node, etc
 
 [npm vs npx](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
