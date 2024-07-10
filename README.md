@@ -42,11 +42,15 @@
 
 [nginx config](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts)
 
-[nslookup guide](https://www.linode.com/docs/guides/how-to-use-nslookup-command/)
-
 [SSH Agent Forwarding - This looks like a good introduction](http://www.unixwiz.net/techtips/ssh-agent-forwarding.html)
 
 [tmux - a quick guide](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
+
+## Networking
+
+[nslookup guide](https://www.linode.com/docs/guides/how-to-use-nslookup-command/)
+
+[SSH tunneling](https://www.ssh.com/academy/ssh/tunneling)
 
 ## VirtualBox
 [VirtualBox and IP addresses - How to assign a static IP address to a VirtualBox VM so that host applications can connect to it](https://marcus.4christies.com/2019/01/how-to-create-a-virtualbox-vm-with-a-static-ip-and-internet-access/)
