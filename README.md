@@ -8,6 +8,8 @@
 
 [CSS Guru Eric Meyer](https://meyerweb.com/)
 
+[CSS Semantic Diff](https://semanticdiff.com/online-diff/css/)
+
 [Font Squirrel](https://www.fontsquirrel.com/)
 
 [Font files - Wakamai Fondue - Drop a font file and learn what features it supports](https://wakamaifondue.com/)
