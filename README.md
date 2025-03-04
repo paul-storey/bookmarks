@@ -20,6 +20,7 @@
 
 [OpenType - Beginners Guide to OpenType](https://www.magnetstudio.com/beginners-guide-to-opentype)
 
+
 #### HTML
 
 [Whitespace](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Whitespace)
@@ -31,6 +32,10 @@
 #### JS libraries
 
 [pagefind](https://pagefind.app/)
+
+## Draw IO
+
+[Allowing shapes to contain other shapes](https://drawio-app.com/blog/create-a-container-shape-in-draw-io/)
 
 ## Git
 
