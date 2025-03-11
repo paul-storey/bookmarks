@@ -45,6 +45,12 @@
 
 [GitHub Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
+## IIIF
+
+[How IIIF works](https://iiif.io/get-started/how-iiif-works/)
+
+[Simple annotation example](https://iiif.io/api/cookbook/recipe/0021-tagging/)
+
 ## Linux
 
 [Bash](https://www.gnu.org/software/bash/manual/bash.html)
